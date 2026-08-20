@@ -1,2 +1,5 @@
 print("Hello GitHub!")
 print("I am learning software engineering.")
+print("Hello GitHub!")
+print("I am learning software engineering.")
+print("I am learning teamwork with Git.")
